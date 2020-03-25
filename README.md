@@ -1,1 +1,1 @@
-# WordPress Plugin - Login with OpenID Connect
+# WordPress Plugin - OpenID Login Client
